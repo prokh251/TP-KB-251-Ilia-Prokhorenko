@@ -1,3 +1,13 @@
+\# 2026-10-28
+
+add folder lab\_02
+
+add report file lab\_02
+
+
+
+
+
 \# 2026-10-25
 
 add folder topic\_04
